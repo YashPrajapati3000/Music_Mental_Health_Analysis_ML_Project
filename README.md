@@ -34,10 +34,10 @@ This project explores how music listening habits relate to mental health traits 
 
 | Visualization | Description |
 |---------------|-------------|
-| ![Feature Importance](plots/20. Feature_Importance_LogReg.png) | Top predictors for depression risk |
-| ![ROC Curve](plots/19. ROC_Curve_Tuned_LogReg.png) | Model performance for classification |
-| ![PCA Clusters](plots/22. User_Clusters_Visualized_Using_PCA.png) | Clusters of users based on music and mental health |
-| ![Genre vs Risk](plots/17. Genre_vs_Risk_(Unscaled).png) | Depression risk distribution across genres |
+| ![Feature Importance](plots/20.%20Feature_Importance_LogReg.png) | Top predictors for depression risk |
+| ![ROC Curve](plots/19.%20ROC_Curve_Tuned_LogReg.png) | Model performance for classification |
+| ![PCA Clusters](plots/22.%20User_Clusters_Visualized_Using_PCA.png) | Clusters of users based on music and mental health |
+| ![Genre vs Risk](plots/17.%20Genre_vs_Risk_%28Unscaled%29.png) | Depression risk distribution across genres |
 
 > 📁 *All 22 plots are available in the `/plots` folder for further exploration.*
 
